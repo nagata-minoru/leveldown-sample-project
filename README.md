@@ -42,7 +42,7 @@
 サンプルアプリケーションを実行するには、以下のコマンドを使用します：
 
 ```
-node leveldown-sample-app.js
+node leveldown-sample-app.cjs
 ```
 
 このスクリプトを実行すると、コンソールに各操作の結果が表示されます。
