@@ -1,6 +1,6 @@
 # leveldown-sample-project
 
-このプロジェクトは、Node.jsのLevelDBバインディングである `leveldown` の基本的な使用方法を示すサンプルアプリケーションです。
+このプロジェクトは、Node.jsのLevelDBバインディングである [leveldown](https://github.com/Level/leveldown) の基本的な使用方法を示すサンプルアプリケーションです。
 
 ## 概要
 
